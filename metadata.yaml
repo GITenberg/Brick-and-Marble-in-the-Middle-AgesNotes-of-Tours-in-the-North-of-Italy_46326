@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40946
     wikipedia: http://en.wikipedia.org/wiki/George_Edmund_Street
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46326#Brick-and-Marble-in-the-Middle-AgesNotes-of-Tours-in-the-North-of-Italy
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
