@@ -1,0 +1,30 @@
+_repo: Brick-and-Marble-in-the-Middle-AgesNotes-of-Tours-in-the-North-of-Italy_46326
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46326-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Street, George Edmund
+    birthdate: 1824
+    deathdate: 1881
+    gutenberg_agent_id: '40946'
+    url: http://www.gutenberg.org/2009/agents/40946
+    wikipedia: http://en.wikipedia.org/wiki/George_Edmund_Street
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46326'
+  lccn: '15011151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- Italy'
+- !lcc 'NA'
+- !lcsh 'Architecture, Medieval'
+- !lcsh 'Architecture, Gothic'
+title: 'Brick and Marble in the Middle Ages: Notes of Tours in the North of Italy'
+url: http://www.gutenberg.org/ebooks/46326
